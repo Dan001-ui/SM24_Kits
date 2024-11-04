@@ -2,16 +2,15 @@
 	"PlayerData": [
 		{
 			"ID": 1,
-			"Forename": "Your Name",
-			"Surname": "Your Name",
-			"ImageURL": "<insert imageurl>"
+			"Forename": "Dante",
+			"Surname": "Sir"
 		}
 	],
 	"ClubData": [
 		{
 			"ID": 1,
-			"Name": "My Club Name",
-			"ShortName": "MCN",
+			"Name": "Western Saints FC",
+			"ShortName": "WES",
 			"ImageURL": "<insert imageurl>",
 			"HomeJersey": {
 				"ShirtColor": "red",
@@ -29,7 +28,7 @@
 	"LeagueData": [
 		{
 			"ID": 28,
-			"Name": "My Clubs League",
+			"Name": "Premier League",
 			"ImageURL": "<insert imageurl>"
 		}
 	],
@@ -43,7 +42,7 @@
 	"StadiumData": [
 		{
 			"ID": 1,
-			"Name": "My Club's Home"
+			"Name": "Kingdom Park"
 		}
 	]
 }
